@@ -691,3 +691,46 @@ This is one of the strongest future technologies.
 
 ---
 
+# Main Technologies Used
+
+![Image](https://images.openai.com/static-rsc-4/fE7qcsdweN4u8u2k49kpcK71sXjAQYaedln8uaotQGFnKxENVc5HVsgBgSEFElY4JpA8ClQiqUCDPa-b8AlaBo1W36rXV73LjbPWtNFD9reGDIn6nu7WafH6NH6FCoFv_lkKEqUTmFhql-9ts8o4oY_1V3OJPYIQomsexFEWiJdYQFTMPaxnWedI1kD6mNSQ?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/DEap3d0m5f5IFhqiZDLIWLri4-f2v5KKk0lEKoMZDKq1Kp1i85k_nSIZN-jEy0T5hlBpfRXs2bj4PN4GyuOcdhAu8xT7CNDFtxFmkmYFnpXrq7IhcCR9v9t0YwyR1d13YTjiNrGtQGsCEetfMguSIav6pHZ9yhDqyChLC0KC2ktZcxdUTCYmYyWsGGd8ChKv?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/ZwWZP22PahVpI_WLGCnfSrlGqzjQT3rivdzfHoJYCBFoZHtbJ_SDsf9yQElHQnfdJB8uIFAV8uyshFiJEiAPmT90vOewAy8ReQkBWYnMybARixRVfZLhiosBWDqUzYH5NxbVx3VKNo-Xf_hsQ85pOlx42I67j6Svd3I-wxc0MLmaZ25ll1pLI1X8LCfnuBmT?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/o6atwnIqaptcfhFhACt23IdkAJOuMyHAAOK0ZMoRjVXN5vJCH6KYcVKCphCIXQKmrBdMnzBKJnNLsL0ffaKGcWWzzRi1FZDlEPpVusPvv9YABKV9YnuAHBUDZHKfzUc5Pe3oZK0AwDMJ0YqNmZfozifpA0JnObu28gJFrUaVa2lkG85oCBey4sm-A6bCpS72?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/Te2ULrezasD0aZN03xnXRH0ZBgfRm3i7LHVArvhN771WLB-h3_a9G-hIfDLafjHfnfdM61PSPxuNF3i35m-OB-TZuK_pIep6hNkKrlJO9lSSKCxo9iEMCn134vNh9DSW5dewQSj-fUBJYU2XXbRYXt-n7fjkB5r5cczVGqMUAGlvCA7kUaj8zHXzVJ15Tj1u?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/yA607Fc838e6O5b4p8eYguIYzCS3DHAdcwiB8dfYFmoiM0LLOaOXeuVEQcAqxEEVYJjtt7MLcuYhH8OGcFXQcW_mHVvrRnjhGCzJrv_6O1gkKbhZuABfXCrAIUWLCNI_6rTNHs2unVsGJxH4GQAO07j0urjIY4sAcd3FJdVVmQj_llA_sO99kVaYR0WnXImt?purpose=fullsize)
+
+Participants build projects using:
+
+* Embedded Systems
+* AI/ML
+* Computer Vision
+* IoT
+* Wireless Networking
+* Simulation
+* Cloud Computing
+
+---
+
+# Example Problem Statements
+
+According to the event details, students worked on projects like:
+
+* Visual Difference Engine
+* Smart File Transfer System
+* Competitive Mobility Simulator ([Mphasis][1])
+
+These involve:
+
+* AI detection
+* Networking
+* Real-time processing
+* Simulation systems
+
+---
+
